@@ -2,11 +2,11 @@
 title: "WQD7004 - Red Wine Quality Prediction - Group Project"
 author: "Group 6 - Curly Brackets"
 output:
+  pdf_document:
+    toc: yes
   html_document:
     toc: yes
     number_sections: yes
-  pdf_document:
-    toc: yes
 ---
 
 # Introduction
